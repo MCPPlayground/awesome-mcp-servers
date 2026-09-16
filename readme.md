@@ -76,6 +76,7 @@
 - **[New Relic MCP](https://github.com/newrelic/newrelic-mcp-server)** — Query application performance, errors, and infrastructure metrics.
 - **[Terraform MCP](https://github.com/hashicorp/terraform-mcp-server)** — Plan, apply, and manage Terraform infrastructure through natural language.
 - **[Git MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/git)** — Direct Git repository operations including commits, diffs, branches, and history.
+- **[ContextStream](https://github.com/contextstream/mcp-server)** — Shared project context for AI coding agents — hosted MCP with code search plus decisions, lessons, and plans.
 
 ---
 
