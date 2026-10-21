@@ -1,0 +1,40 @@
+# Awesome MCP Servers
+
+> A curated list of Model Context Protocol (MCP) servers, clients, tools, frameworks and learning resources, maintained by MCP Playground. About 165 entries across 19 sections: official servers, developer tools, databases, messaging, productivity, finance, DevOps, search, files, e-commerce, CRM, media, security, AI/ML, testing and debugging, SDKs, learning resources, communities and directories. Remote servers on the list can be tested in the browser at mcpplaygroundonline.com.
+
+## The list
+- [README](https://github.com/MCPPlayground/awesome-mcp-servers/blob/main/readme.md): the full list, one line per entry with a link and description
+
+## Sections
+- [Official Servers](https://github.com/MCPPlayground/awesome-mcp-servers/blob/main/readme.md#official-servers): maintained by Anthropic or official project partners
+- [Developer Tools](https://github.com/MCPPlayground/awesome-mcp-servers/blob/main/readme.md#developer-tools)
+- [Database & Storage](https://github.com/MCPPlayground/awesome-mcp-servers/blob/main/readme.md#database--storage)
+- [Communication & Messaging](https://github.com/MCPPlayground/awesome-mcp-servers/blob/main/readme.md#communication--messaging)
+- [Productivity & Project Management](https://github.com/MCPPlayground/awesome-mcp-servers/blob/main/readme.md#productivity--project-management)
+- [Finance & Payments](https://github.com/MCPPlayground/awesome-mcp-servers/blob/main/readme.md#finance--payments)
+- [Infrastructure & DevOps](https://github.com/MCPPlayground/awesome-mcp-servers/blob/main/readme.md#infrastructure--devops)
+- [Search & Web](https://github.com/MCPPlayground/awesome-mcp-servers/blob/main/readme.md#search--web)
+- [File & Document Management](https://github.com/MCPPlayground/awesome-mcp-servers/blob/main/readme.md#file--document-management)
+- [E-commerce](https://github.com/MCPPlayground/awesome-mcp-servers/blob/main/readme.md#e-commerce)
+- [CRM & Marketing](https://github.com/MCPPlayground/awesome-mcp-servers/blob/main/readme.md#crm--marketing)
+- [Media & Design](https://github.com/MCPPlayground/awesome-mcp-servers/blob/main/readme.md#media--design)
+- [Security & Auth](https://github.com/MCPPlayground/awesome-mcp-servers/blob/main/readme.md#security--auth)
+- [AI & ML](https://github.com/MCPPlayground/awesome-mcp-servers/blob/main/readme.md#ai--ml)
+- [Testing & Debugging](https://github.com/MCPPlayground/awesome-mcp-servers/blob/main/readme.md#testing--debugging): tools to test and debug MCP servers
+- [Frameworks & SDKs](https://github.com/MCPPlayground/awesome-mcp-servers/blob/main/readme.md#frameworks--sdks): TypeScript, Python and other languages
+- [Learning Resources](https://github.com/MCPPlayground/awesome-mcp-servers/blob/main/readme.md#learning-resources): docs, tutorials, videos, newsletters
+- [Communities](https://github.com/MCPPlayground/awesome-mcp-servers/blob/main/readme.md#communities)
+- [Tools & Directories](https://github.com/MCPPlayground/awesome-mcp-servers/blob/main/readme.md#tools--directories)
+
+## Test the servers
+- [MCP Server Tester](https://mcpplaygroundonline.com/mcp-test-server): test any remote MCP server in the browser, no install
+- [MCP Inspector Online](https://mcpplaygroundonline.com/mcp-inspector-online): browser alternative to npx @modelcontextprotocol/inspector
+- [MCP Agent Studio](https://mcpplaygroundonline.com/mcp-agent-studio): test MCP servers with 80+ AI models
+- [MCP Playground Desktop](https://mcpplaygroundonline.com/local-mcp-server-testing): test local stdio and localhost MCP servers on macOS and Windows
+
+## Related
+- [Awesome MCP Servers, live-tested catalog](https://mcpplaygroundonline.com/blog/awesome-mcp-servers): the same list on the web, with servers tested live
+- [MCP server directory](https://mcpplaygroundonline.com/mcp-servers): browse MCP servers by category
+- [Featured MCP servers](https://mcpplaygroundonline.com/featured-mcp-servers)
+- [Mock MCP servers](https://mcpplaygroundonline.com/mock-mcp-servers): public servers for testing MCP clients
+- [MCP Playground llms.txt](https://mcpplaygroundonline.com/llms.txt): full site index
