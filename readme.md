@@ -153,6 +153,7 @@
 - **[AWS MCP](https://github.com/aws/mcp-server-aws)** — Interact with AWS services: S3, EC2, Lambda, RDS, and CloudWatch.
 - **[GCP MCP](https://github.com/GoogleCloudPlatform/mcp-server-gcp)** — Manage Google Cloud resources, BigQuery, GCS, and GKE clusters.
 - **[Azure MCP](https://github.com/Azure/azure-mcp)** — Azure resource management, deployments, and monitoring.
+- **[DC Hub MCP](https://github.com/azmartone67/dchub-mcp-server)** — Live data for data-center site selection, including a daily Data Center Power Index (DCPI) of grid power across 300+ markets, via a remote server at https://dchub.cloud/mcp.
 - **[Fly.io MCP](https://github.com/superfly/mcp-fly)** — Deploy apps, manage machines, and view logs on Fly.io.
 - **[Railway MCP](https://github.com/railwayapp/mcp-railway)** — Manage Railway deployments, services, and environment variables.
 - **[Render MCP](https://github.com/rendercom/mcp-render)** — Deploy and manage services, databases, and static sites on Render.
