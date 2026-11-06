@@ -171,6 +171,7 @@
 - **[Perplexity MCP](https://github.com/ppl-ai/mcp-perplexity)** — AI-powered research and question answering with live web access.
 - **[SerpAPI MCP](https://github.com/serpapi/mcp-serpapi)** — Google, Bing, and YouTube search results via the SerpAPI platform.
 - **[Firecrawl MCP](https://github.com/mendableai/firecrawl-mcp-server)** — Scrape, crawl, and extract clean data from any website at scale.
+- **[JobsPipe MCP](https://docs.jobspipe.dev/ai-agents/mcp)** — Remote MCP for searching ATS-normalized job listings from AI agents.
 - **[Apify MCP](https://github.com/apify/mcp-server-apify)** — Run web scraping actors and manage datasets on the Apify platform.
 - **[Wikipedia MCP](https://github.com/mcp-servers/mcp-wikipedia)** — Search and retrieve Wikipedia articles, summaries, and structured data.
 
