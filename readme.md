@@ -219,6 +219,8 @@
 
 ## Media & Design
 
+- **[Kling AI MCP](https://kling.ai/app/mcp/guide)** — Official hosted image and video generation via OAuth; Global `https://kling.ai/mcp/plugin` and China `https://klingai.com/mcp/plugin` use separate accounts and paid personal-workspace credits.
+
 > AI-powered workflows for creative and visual content.
 
 - **[Figma MCP](https://github.com/GLips/Figma-Context-MCP)** — Read Figma file contents, extract design tokens, and inspect components.
