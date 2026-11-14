@@ -165,6 +165,7 @@
 
 > Give your AI assistant the ability to browse, search, and extract from the web.
 
+- **[AIHOT MCP](https://aihot.news/agent?tab=mcp)** — Search Chinese-language AI news, retrieve topic timelines, and read briefings.
 - **[Brave Search MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search)** — Privacy-first web and news search powered by Brave.
 - **[Tavily MCP](https://github.com/tavily-ai/mcp-tavily)** — AI-optimized web search with real-time results and source citations.
 - **[Exa MCP](https://github.com/exa-labs/exa-mcp-server)** — Semantic web search designed for AI agents with high-quality results.
