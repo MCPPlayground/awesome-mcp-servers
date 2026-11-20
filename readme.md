@@ -61,6 +61,7 @@
 
 > MCP servers that integrate with IDEs, version control, CI/CD, and the developer workflow.
 
+- **[Casama MCP](https://github.com/stackwares/casama/tree/main/packages/mcp)** — Search Casama documentation and API references, check plugins, and delegate tasks to Casama bots from coding tools.
 - **[Playwright MCP](https://github.com/microsoft/playwright-mcp)** — Browser automation and end-to-end testing using Microsoft's Playwright framework.
 - **[Cursor MCP](https://docs.cursor.com/context/model-context-protocol)** — Native MCP client integration inside the Cursor AI-powered IDE.
 - **[VS Code MCP](https://code.visualstudio.com/docs/copilot/model-context-protocol)** — Use MCP servers directly from VS Code with GitHub Copilot integration.
