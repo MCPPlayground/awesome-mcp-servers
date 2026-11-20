@@ -207,6 +207,7 @@
 > Connect AI to customer data, campaigns, and sales pipelines.
 
 - **[Salesforce MCP](https://github.com/salesforce/mcp-server-salesforce)** — Query and update Salesforce CRM records, leads, opportunities, and reports.
+- **[FairValid MCP](https://github.com/moonlitnayeem/fairvalid-ai)** — Verify email addresses and find verified work contacts through an authenticated hosted MCP connection.
 - **[HubSpot MCP](https://github.com/hubspot/mcp-hubspot)** — Contacts, deals, campaigns, and marketing analytics from HubSpot CRM.
 - **[Mailchimp MCP](https://github.com/mcp-servers/mcp-mailchimp)** — Manage email campaigns, audiences, and automation in Mailchimp.
 - **[ActiveCampaign MCP](https://github.com/mcp-servers/mcp-activecampaign)** — Marketing automation, contact management, and campaign analytics.
