@@ -225,6 +225,7 @@
 - **[Cloudinary MCP](https://github.com/cloudinary/mcp-server-cloudinary)** — Upload, transform, and manage media assets via Cloudinary.
 - **[YouTube MCP](https://github.com/mcp-servers/mcp-youtube)** — Search videos, retrieve transcripts, and access YouTube channel data.
 - **[Spotify MCP](https://github.com/varunneal/spotify-mcp)** — Search tracks, manage playlists, and control Spotify playback.
+- **[TalkPix MCP](https://github.com/TalkPix-AI/talkpix-mcp)** — Hosted OAuth server for the Claude and ChatGPT custom connectors that generates lip-synced talking-photo videos and short product ads, with a credit quote before rendering.
 - **[Unsplash MCP](https://github.com/mcp-servers/mcp-unsplash)** — Search and download high-quality stock photography from Unsplash.
 - **[Canva MCP](https://github.com/canva-public/mcp-server-canva)** — Access Canva designs, templates, and brand assets via the Canva API.
 
