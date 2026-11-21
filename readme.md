@@ -276,6 +276,7 @@
 - **[MCP TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk)** — Official TypeScript SDK for building MCP servers and clients.
 - **[FastMCP](https://github.com/jlowin/fastmcp)** — High-level framework for building MCP servers with minimal boilerplate.
 - **[mcp-framework](https://github.com/QuantGeekDev/mcp-framework)** — Opinionated framework for production MCP servers with routing and middleware.
+- **[xmcp](https://github.com/basementstudio/xmcp)** — TypeScript framework for building MCP servers with file-based tools, resources, prompts, and HTTP or STDIO transport.
 
 ### Python
 - **[MCP Python SDK](https://github.com/modelcontextprotocol/python-sdk)** — Official Python SDK for building MCP servers and clients.
