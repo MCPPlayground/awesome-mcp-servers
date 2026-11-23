@@ -139,6 +139,7 @@
 - **[Plaid MCP](https://github.com/plaid/mcp-plaid)** — Access bank account data, transactions, and financial insights via Plaid.
 - **[QuickBooks MCP](https://github.com/intuit/mcp-server-quickbooks)** — Manage invoices, expenses, customers, and accounting in QuickBooks.
 - **[Xero MCP](https://github.com/xeroapi/mcp-server-xero)** — Access Xero accounting data: invoices, contacts, bank feeds, and reports.
+- **[FlowFeed MCP](https://github.com/loyt1/flowfeed-mcp)** — Real-time macro, forex and crypto news and economic calendar for AI agents.
 - **[Coinbase MCP](https://github.com/coinbase/agentkit/tree/main/typescript/agentkit)** — Crypto wallet management, transactions, and real-time price data via Coinbase.
 - **[CoinGecko MCP](https://github.com/mcp-servers/mcp-coingecko)** — Live cryptocurrency prices, market data, and token information.
 - **[Alpaca MCP](https://github.com/alpacahq/mcp-alpaca)** — Stock trading, portfolio management, and market data via Alpaca API.
